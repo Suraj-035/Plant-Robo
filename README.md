@@ -18,7 +18,7 @@ The system reacts visually and behaviorally like a digital pet, making plant car
 
 ## 📸 Project Preview
 
-![Plant Robo Preview](photos/collage.jpg)
+![Plant Robo Preview](assets/collage.jpg)
 
 ---
 
@@ -31,4 +31,29 @@ The system reacts visually and behaviorally like a digital pet, making plant car
 ---
 
 ## 📁 Project Structure
+Plant/
+│
+├── Plant_robo/
+├── Plant_robov3/
+├── plant_roboV2/
+├── assets/
+└── README.md
+
+
+---
+
+## 🎯 Future Improvements
+
+- Cloud dashboard for real-time monitoring
+- Mobile app integration
+- ML-based emotional intelligence
+- Voice interaction improvements
+
+---
+
+## 👨‍💻 Author
+
+**Suraj**  
+MSc Computer Science | Robotics & IoT Enthusiast  
+GitHub: [Suraj-035](https://github.com/Suraj-035)
 
