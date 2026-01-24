@@ -31,6 +31,7 @@ The system reacts visually and behaviorally like a digital pet, making plant car
 ---
 
 ## 📁 Project Structure
+
 Plant/
 │
 ├── Plant_robo/
